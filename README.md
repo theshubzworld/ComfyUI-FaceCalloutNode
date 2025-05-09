@@ -61,6 +61,10 @@ Nodes are registered in `__init__.py` as follows:
 - **IsolatedFaceCalloutNode**: Create cut-out face callouts for compositing or avatars.
 - **IntegratedFaceCompositeNode**: Overlay isolated face callouts onto backgrounds for creative effects or collages.
 
+## Example Workflow
+
+![Example Workflow Preview](example_workflows/example_workflows.png)
+
 ## File Structure
 - `FaceCalloutNode.py`: Main callout annotation node.
 - `IsolatedFaceCalloutNode.py`: Node for extracting and formatting isolated face callouts.
