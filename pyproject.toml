@@ -1,7 +1,7 @@
 [project]
 name = "facecalloutnode"
 description = "A collection of advanced face-processing nodes for ComfyUI that detect faces, create stylized circular callouts, and seamlessly composite them into any image. It includes tools to highlight faces with annotation lines, generate isolated face callout cutouts (with transparency), and integrate these callouts onto backgrounds with precise placement and scaling—perfect for presentations, avatars, and creative visual effects."
-version = "1.1.0"
+version = "1.1.1"
 license = {file = "LICENSE"}
 
 [project.urls]
